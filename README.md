@@ -166,15 +166,23 @@ Se completó el formulario de contacto utilizando datos correctos.
 
 PHP procesó los datos y mostró un mensaje indicando que la consulta fue procesada correctamente.
 
+![POST correcto](captura%20tp2/post%20correcto%20.png)
+
 ### ❌ POST inválido
 
 Se ingresó un correo electrónico con formato incorrecto.
 
 PHP detectó el problema, mostró el mensaje de error correspondiente y mantuvo los demás datos ingresados en el formulario.
 
+![POST incorrecto](captura%20tp2/post%20incorrecto.png)
+
+
 ### ✅ GET - Rangos
 
 Se modificó el orden de los rangos y se comprobó que el parámetro apareciera correctamente en la URL.
+
+![GET Rangos](captura%20tp2/get%20de%20rangos%20php.png)
+
 
 Ejemplo:
 
@@ -187,6 +195,8 @@ PHP procesó el parámetro y reorganizó los productos.
 ### ✅ GET - Soporte rápido
 
 Se seleccionó un problema desde la sección de soporte rápido.
+
+![GET Soporte rápido](captura%20tp2/get%20soporte%20rapido.png)
 
 Ejemplo:
 
